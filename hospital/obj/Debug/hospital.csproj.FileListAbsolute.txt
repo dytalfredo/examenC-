@@ -1,0 +1,10 @@
+C:\Users\pc\Documents\SharpDevelop Projects\hospital\hospital\obj\Debug\hospital.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\SharpDevelop Projects\hospital\hospital\bin\Debug\hospital.exe
+C:\Users\pc\Documents\SharpDevelop Projects\hospital\hospital\bin\Debug\hospital.pdb
+C:\Users\pc\Documents\SharpDevelop Projects\hospital\hospital\obj\Debug\hospital.exe
+C:\Users\pc\Documents\SharpDevelop Projects\hospital\hospital\obj\Debug\hospital.pdb
+C:\Users\dytal\Downloads\hospital\hospital\hospital\obj\Debug\hospital.csprojResolveAssemblyReference.cache
+C:\Users\dytal\Downloads\hospital\hospital\hospital\obj\Debug\hospital.exe
+C:\Users\dytal\Downloads\hospital\hospital\hospital\obj\Debug\hospital.pdb
+C:\Users\dytal\Downloads\hospital\hospital\hospital\bin\Debug\hospital.exe
+C:\Users\dytal\Downloads\hospital\hospital\hospital\bin\Debug\hospital.pdb
