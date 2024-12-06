@@ -26,6 +26,9 @@ namespace hospital
 			}
 		}
 		
+
+	
+		
 		public override void Capacitarce()
 		{
 			Console.WriteLine("ESTUDIAR CURSO INTENSIVO");
